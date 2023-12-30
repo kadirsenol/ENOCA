@@ -9,7 +9,7 @@ namespace Soru5
         {
 			List<string> sqlcumle = new List<string>();	
             string sql = "";
-            var satir= File.ReadAllLines("Employee.csv");
+            var satir= File.ReadAllLines("../../../Employee.csv");
 			bool create= false;
             for(int i=0; i<satir.Length;i++)
             {
