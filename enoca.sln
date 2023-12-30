@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "soru4", "soru4\soru4.csproj", "{FDE73674-3B73-4DDA-A13A-92F842F71D15}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Soru5", "Soru5\Soru5.csproj", "{2920A684-29B0-4A8C-9B4C-C869B89F18A5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FDE73674-3B73-4DDA-A13A-92F842F71D15}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FDE73674-3B73-4DDA-A13A-92F842F71D15}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FDE73674-3B73-4DDA-A13A-92F842F71D15}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FDE73674-3B73-4DDA-A13A-92F842F71D15}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2920A684-29B0-4A8C-9B4C-C869B89F18A5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2920A684-29B0-4A8C-9B4C-C869B89F18A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2920A684-29B0-4A8C-9B4C-C869B89F18A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2920A684-29B0-4A8C-9B4C-C869B89F18A5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1EB9F012-91BE-47E2-86C3-D4A502DC69A9}
+	EndGlobalSection
+EndGlobal
