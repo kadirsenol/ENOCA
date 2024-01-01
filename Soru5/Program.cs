@@ -1,6 +1,14 @@
 ﻿using Microsoft.Data.SqlClient;
 using System.Data.SqlTypes;
 
+
+//İnternetten bulduğum bir 'Employee' isimli csv dosya verilerini C# ile alıp istenilen database(test isimli) içerisine
+//gerekli tablolaların oluşturulması ve verilerin ilgili yerlere yerleştirilmesi.
+
+//Burada database bağlantısını Windows Authentication ile bağlantı gerçekleştirdim. Fakat izinli bir user tanımlandıktan
+//sonra Sql Server Authenticaion üzerinden ilgili connection string içerisine kullanıcı adı ve password bilgisi girerek
+//erişilebilir.
+
 namespace Soru5
 {
     internal class Program
